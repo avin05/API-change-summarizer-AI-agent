@@ -1,0 +1,5 @@
+apis:
+  - name: Meta Graph API
+    url: https://developers.facebook.com/docs/graph-api/changelog/
+  - name: Google Drive API
+    url: https://developers.google.com/drive/api/guides/change-log
